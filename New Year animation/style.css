@@ -8,13 +8,7 @@
   transition: all 100ms ease-in;
 }
 html{
-	/* background: #222048; */
-	background: #0702a3d2;
-  /* background: rgb(238,174,202); */
-  /* background: linear-gradient(to right, #33001b, #ff0084); */
-  /* background-image: radial-gradient( circle farthest-corner at 22.4% 21.7%, rgba(4,189,228,1) 0%, rgba(2,83,185,1) 100.2% ); */
-  /* background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e); */
-  /* background-image: linear-gradient(to right, #8e2de2, #4a00e0); */
+  background: #0702a3d2;
 }
 .wish{
   width: 100%;
